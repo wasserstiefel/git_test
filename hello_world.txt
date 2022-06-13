@@ -1,0 +1,3 @@
+Hello World! 
+I'm learning through The Odin Project in my Linux enviroment and this is reall exciting!
+Looking forward to progress learn, and some day look back at this with joy.
